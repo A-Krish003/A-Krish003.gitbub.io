@@ -1,13 +1,13 @@
-# Project Title: [Name]
+# Project Title: Personal Finance Dashboard
 
 **Background and Overview**
 - Language: SQL
+- Tool: Excel, Google Forms
 
-**Business Problem**
+
 
 **Data Structure Overview**
-- Source:
-- Collection Date:
+- Source: Bank & Credit Card Statements
 - Structure:
 
 **Executive Summary**

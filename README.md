@@ -42,6 +42,9 @@ The interactive dashboard includes key summary figures and charts:
 5. **Tim Hortons vs. McDonald's Purchases:** A specific side-by-side comparison of quick-service food spending.
 6. **Expense Category Breakdown (Donut Chart):** Visualizes the relative size of each category in total spending.
 
+<img width="1071" height="578" alt="Screenshot 2026-09-14 110011" src="https://github.com/user-attachments/assets/ff352d2c-c8b8-4528-867e-37be8729b7c3" />
+
+
 ---
 
 ## Key Insights

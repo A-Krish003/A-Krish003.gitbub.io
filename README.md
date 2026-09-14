@@ -12,8 +12,8 @@
 
 **Executive Summary**
 
-**Insights Deep Dive**
+**Insights**
 
 **Recommendations**
 
-**Limitation & Next Steps**
+**Key Takeaways**

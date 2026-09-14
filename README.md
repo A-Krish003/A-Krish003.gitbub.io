@@ -66,6 +66,5 @@ The interactive dashboard includes key summary figures and charts:
 
 ## Key Takeaways & Lessons Learned
 
-- Applied **Pivot Tables** and **Pivot Charts** to organize raw transaction rows into actionable summary data.
 - Learned how to choose the best chart types (pie, bar, donut) to display complex spending trends clearly.
 - Built a streamlined data pipeline starting from input (Google Forms) to processing and visual layout (Google Sheets/Excel).
